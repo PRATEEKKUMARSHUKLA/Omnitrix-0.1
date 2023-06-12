@@ -6,3 +6,5 @@
 5.change aongs if you need and change path of songs by edit [main.js]⚠️
 6.increase music volume by tap on shine part on top-left and rotate it clockwise.⚫↩️
 7.decrease music volume by tap on shine part on top-left and rotate it anti-clockwise.⚫↪️
+#omnitrix-final-result🌐
+https://teal-malabi-d59bc0.netlify.app/
