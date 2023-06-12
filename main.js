@@ -1,10 +1,10 @@
 var songs = [
-  'file:///storage/emulated/0/DCIM/BEN10/themesong.mp3',
-  'file:///storage/emulated/0/DCIM/BEN10/themesong1.mp3',
-  'file:///storage/emulated/0/DCIM/BEN10/themesong2.mp3',
-  'file:///storage/emulated/0/DCIM/BEN10/themesong3.mp3',
-  'file:///storage/emulated/0/DCIM/BEN10/themesong4.mp3',
-  'file:///storage/emulated/0/DCIM/BEN10/themesong5.mp3'
+  './themesong.mp3',
+  './themesong1.mp3',
+  './themesong2.mp3',
+  './themesong3.mp3',
+  './themesong4.mp3',
+  './themesong5.mp3'
 ];
 
 var currentSongIndex = 0;
